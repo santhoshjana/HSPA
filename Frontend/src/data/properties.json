@@ -1,0 +1,50 @@
+[
+    {
+    "id":1,
+    "SellRent":1, 
+    "name":"Santhosh House",
+    "Type":"House",
+    "Price":2100000,
+    "Image":"prop-1"
+    },
+    {
+    "id":2,
+    "SellRent":2, 
+    "name":"Marco House",
+    "Type":"House",
+    "Price":2500000,
+    "Image":"prop-2"
+    },
+    {
+    "id":3,
+    "SellRent":1, 
+    "name":"Jhon House",
+    "Type":"House",
+    "Price":4100000,
+    "Image":"prop-3"
+    },
+    {
+      "id":4,
+      "SellRent":1, 
+      "name":"Jho House",
+      "Type":"House",
+      "Price":1500000,
+      "Image":"prop-4"
+    },
+    {
+      "id":5,
+      "SellRent":1, 
+      "name":"Delli House",
+      "Type":"House",
+      "Price":2800000,
+      "Image":"prop-5"
+    },
+    {
+      "id":6,
+      "SellRent":1, 
+      "name":"Khalifa House",
+      "Type":"House",
+      "Price":7100000
+      
+    }
+]
